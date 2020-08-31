@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.65" height="21.22" viewBox="0 0 18.65 21.22">
+  <g id="calculator_1_" data-name="calculator(1)" transform="translate(-31)">
+    <g id="Group_191" data-name="Group 191" transform="translate(31)">
+      <g id="Group_190" data-name="Group 190">
+        <path id="Path_969" data-name="Path 969" d="M47.785,0H32.865A1.867,1.867,0,0,0,31,1.865v17.49a1.867,1.867,0,0,0,1.865,1.865h14.92a1.867,1.867,0,0,0,1.865-1.865V1.865A1.867,1.867,0,0,0,47.785,0Zm.622,19.355a.622.622,0,0,1-.622.622H32.865a.622.622,0,0,1-.622-.622V1.865a.622.622,0,0,1,.622-.622h14.92a.622.622,0,0,1,.622.622Z" transform="translate(-31)" fill="#61b356"/>
+      </g>
+    </g>
+    <g id="Group_193" data-name="Group 193" transform="translate(33.487 2.487)">
+      <g id="Group_192" data-name="Group 192">
+        <path id="Path_970" data-name="Path 970" d="M104.055,60H91.622a.622.622,0,0,0-.622.622v5.056a.622.622,0,0,0,.622.622h12.434a.622.622,0,0,0,.622-.622V60.622A.622.622,0,0,0,104.055,60ZM92.243,65.056v0Z" transform="translate(-91 -60)" fill="#61b356"/>
+      </g>
+    </g>
+    <g id="Group_195" data-name="Group 195" transform="translate(33.487 10.03)">
+      <g id="Group_194" data-name="Group 194">
+        <path id="Path_971" data-name="Path 971" d="M94.108,242H91.622a.622.622,0,0,0-.622.622v2.487a.622.622,0,0,0,.622.622h2.487a.622.622,0,0,0,.622-.622v-2.487A.622.622,0,0,0,94.108,242Zm-.622,2.487h0Z" transform="translate(-91 -242)" fill="#61b356"/>
+      </g>
+    </g>
+    <g id="Group_197" data-name="Group 197" transform="translate(33.487 15.003)">
+      <g id="Group_196" data-name="Group 196">
+        <path id="Path_972" data-name="Path 972" d="M94.108,362H91.622a.622.622,0,0,0-.622.622v2.487a.622.622,0,0,0,.622.622h2.487a.622.622,0,0,0,.622-.622v-2.487A.622.622,0,0,0,94.108,362Zm-.622,2.487h0Z" transform="translate(-91 -362)" fill="#61b356"/>
+      </g>
+    </g>
+    <g id="Group_199" data-name="Group 199" transform="translate(38.46 10.03)">
+      <g id="Group_198" data-name="Group 198">
+        <path id="Path_973" data-name="Path 973" d="M214.108,242h-2.487a.622.622,0,0,0-.622.622v2.487a.622.622,0,0,0,.622.622h2.487a.622.622,0,0,0,.622-.622v-2.487A.622.622,0,0,0,214.108,242Zm-1.865,2.487v0Z" transform="translate(-211 -242)" fill="#61b356"/>
+      </g>
+    </g>
+    <g id="Group_201" data-name="Group 201" transform="translate(38.46 15.003)">
+      <g id="Group_200" data-name="Group 200">
+        <path id="Path_974" data-name="Path 974" d="M214.108,362h-2.487a.622.622,0,0,0-.622.622v2.487a.622.622,0,0,0,.622.622h2.487a.622.622,0,0,0,.622-.622v-2.487A.622.622,0,0,0,214.108,362Zm-.622,2.487h0Z" transform="translate(-211 -362)" fill="#61b356"/>
+      </g>
+    </g>
+    <g id="Group_203" data-name="Group 203" transform="translate(43.434 10.03)">
+      <g id="Group_202" data-name="Group 202">
+        <path id="Path_975" data-name="Path 975" d="M334.108,242h-2.487a.622.622,0,0,0-.622.622v7.46a.622.622,0,0,0,.622.622h2.487a.622.622,0,0,0,.622-.622v-7.46A.622.622,0,0,0,334.108,242Zm-.622,7.46h0Z" transform="translate(-331 -242)" fill="#61b356"/>
+      </g>
+    </g>
+  </g>
+</svg>
